@@ -1,0 +1,4 @@
+numpy
+pyroomacoustics
+ipython
+scipy
